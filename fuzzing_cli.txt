@@ -1,0 +1,2 @@
+# wfuzz - change WORDLIST.TXT, change IP ADDRESS and PORT
+wfuzz -w /usr/share/wordlists/wfuzz/general/WORDLIST.txt --hc 404 http://I.P.A.D.:PORT/FUZZ
