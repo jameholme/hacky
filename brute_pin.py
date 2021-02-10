@@ -3,7 +3,7 @@
 import requests
 
 # Update the url for your target
-url = http://192.168.100.10:8000/flag?
+url = http://192.168.1.1:8000/flag?
 
 # Update the files below for desired wordlists, etc.
 first_name_file = '/usr/share/wordlists/seclists/Usernames/Names/firstname.txt'
